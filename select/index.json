@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "first death",
+  "base_artist": "TK from Ling tosite sigure",
+  "createdAt": "2025-12-05T03:58:29.206314Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "first death",
+      "artist": "TK from Ling tosite sigure",
+      "has_synced": true,
+      "path": "select/01_first_death_TK_from_Ling_tosite_sigure.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "first death",
+      "artist": "TK from 凛として時雨",
+      "has_synced": true,
+      "path": "select/02_first_death_TK_from_凛として時雨.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "first death",
+      "artist": "Will Stetson",
+      "has_synced": true,
+      "path": "select/03_first_death_Will_Stetson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "first death",
+      "artist": "TK from Ling tosite sigure",
+      "has_synced": true,
+      "path": "select/04_first_death_TK_from_Ling_tosite_sigure.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "First Death",
+      "artist": "TYPO",
+      "has_synced": false,
+      "path": "select/05_First_Death_TYPO.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "first death (Instrumental)",
+      "artist": "TK from 凛として時雨",
+      "has_synced": true,
+      "path": "select/06_first_death_(Instrumental)_TK_from_凛として時雨.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "first death",
+      "artist": "TK from Ling tosite sigure",
+      "has_synced": true,
+      "path": "select/07_first_death_TK_from_Ling_tosite_sigure.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "first death",
+      "artist": "TK from 凛として時雨",
+      "has_synced": true,
+      "path": "select/08_first_death_TK_from_凛として時雨.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "First Death (Every Man Is a Moth to the Flame)",
+      "artist": "Ordo Rosarius Equilibrio",
+      "has_synced": true,
+      "path": "select/09_First_Death_(Every_Man_Is_a_Moth_to_the_Flame)_Ordo_Rosarius_Equilibrio.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "first death",
+      "artist": "Will Stetson",
+      "has_synced": true,
+      "path": "select/10_first_death_Will_Stetson.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "first death (Instrumental)",
+      "artist": "TK from Ling tosite sigure",
+      "has_synced": true,
+      "path": "select/11_first_death_(Instrumental)_TK_from_Ling_tosite_sigure.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "first death",
+      "artist": "TK from 凛として時雨",
+      "has_synced": false,
+      "path": "select/pl_01_first_death_TK_from_凛として時雨.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "first death",
+      "artist": "TK from 凛として時雨",
+      "has_synced": false,
+      "path": "select/pl_02_first_death_TK_from_凛として時雨.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "first death",
+      "artist": "TK from 凛として時雨",
+      "has_synced": false,
+      "path": "select/pl_03_first_death_TK_from_凛として時雨.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "first death",
+      "artist": "TK from 凛として時雨",
+      "has_synced": false,
+      "path": "select/pl_04_first_death_TK_from_凛として時雨.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "first death (Devils from Chainsaw edition)",
+      "artist": "TK from 凛として時雨",
+      "has_synced": false,
+      "path": "select/pl_05_first_death_(Devils_from_Chainsaw_edition)_TK_from_凛として時雨.txt"
+    }
+  ]
+}
